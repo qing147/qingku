@@ -3,4 +3,8 @@
 =======
 卿慧东
 #你好
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
+=======
+jkjkh
 >>>>>>> refs/remotes/origin/master
